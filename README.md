@@ -29,20 +29,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/rbeencg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="http://discordapp.com/users/1290703207059816481" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xt5tlnlls7xafx4kqbeiklsjra?si=6a8a63174ecf4b47">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xt5tlnlls7xafx4kqbeiklsjra" alt="Spotify recently played"  />
   </a>
 </div>
 
